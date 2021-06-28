@@ -1,0 +1,25 @@
+.full-height {
+    height: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.content {
+    padding: 2rem 5rem;
+}
+
+.title-marked {
+    padding-left: 2px;
+}
+
+.title-marked>div {
+    border-left: 10px solid #51b94b;
+    padding-left: 10px;
+}
+
+.site-layout-content {
+    background-color: #fff;
+    padding: 20px;
+}
